@@ -11,6 +11,8 @@ Blog type project to practice custom fonts, animations, responsive and effects i
 
 ##
 
+Responsive
+
 ![w3](https://user-images.githubusercontent.com/38353024/118358409-e6f11c80-b57e-11eb-818d-f3820d9a450c.gif)
 
   
